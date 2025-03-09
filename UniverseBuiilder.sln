@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniverseBuilder3", "UniverseBuilder3\UniverseBuilder3.csproj", "{783D31B8-1A60-4B79-997D-A65DF780EC6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniverseSimulation", "UniverseSimulation\UniverseSimulation.csproj", "{2231B8C5-D9A1-44E0-AB50-77778B823133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniverseSimulationUi", "UniverseSimulationUi\UniverseSimulationUi.csproj", "{84BCF37D-D042-41AA-AB0D-8C8F1F4601CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{783D31B8-1A60-4B79-997D-A65DF780EC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783D31B8-1A60-4B79-997D-A65DF780EC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783D31B8-1A60-4B79-997D-A65DF780EC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783D31B8-1A60-4B79-997D-A65DF780EC6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2231B8C5-D9A1-44E0-AB50-77778B823133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2231B8C5-D9A1-44E0-AB50-77778B823133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2231B8C5-D9A1-44E0-AB50-77778B823133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2231B8C5-D9A1-44E0-AB50-77778B823133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BCF37D-D042-41AA-AB0D-8C8F1F4601CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BCF37D-D042-41AA-AB0D-8C8F1F4601CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BCF37D-D042-41AA-AB0D-8C8F1F4601CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BCF37D-D042-41AA-AB0D-8C8F1F4601CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
